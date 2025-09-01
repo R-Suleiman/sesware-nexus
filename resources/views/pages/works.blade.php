@@ -14,16 +14,49 @@
     <section class="w-full my-4 px-2 py-12">
         <div class="grid grid-cols-1 gap-3 md:grid md:grid-cols-2 md:gap-4 lg:grid lg:gap-4 text-md">
             <div
+<<<<<<< HEAD
+                class="p-4 bg-gradient-to-br from-blue-200 to-blue-100 rounded-lg my-4 hover:shadow-lg shadow-blue-300 transition-all duration-300">
+                <div class="flex flex-col gap-3">
+                    <div class="w-full h-80 overflow-hidden rounded-lg shadow-md">
+                        <img src="{{ asset('images/KANYASI_66.jpg') }}" alt="design mockup"
+                            class="w-full h-full object-cover transition-transform duration-300 hover:scale-105">
+=======
                 class="p-4 bg-gradient-to-br from-blue-200 to-blue-100 rounded-lg my-4 hover:shadow-lg shadow-blue-300 transition-all duration-300 relative overflow-hidden">
                 <div class="flex flex-col gap-3 mb-4">
                     <div class="w-full h-96 overflow-hidden rounded-lg shadow-md">
                         <img src="{{ asset('images/Scolastica-Project.PNG') }}" alt="design mockup"
                             class="w-full h-full object-cover transition-transform duration-1000 hover:scale-105">
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
                     </div>
                     <h2
                         class="text-xl tracking-wide text-blue-900 font-bold text-center hover:text-blue-700 transition-colors duration-200">
                         School Website</h2>
                     <p class="text-gray-700 text-center text-sm md:text-base">
+<<<<<<< HEAD
+                        Designing, developing, and deploying custom web-based software to automate business processes,
+                        manage data, and facilitate online transactions.
+                    </p>
+                    <div class="flex justify-center mt-4">
+                        <a href="#"
+                            class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors duration-200">Learn
+                            More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p-2 bg-gradient-to-br from-blue-100 to-blue-50 rounded-lg my-4 hover:shadow-md shadow-blue-200">
+                <div class="flex flex-col gap-2">
+                    <div class="w-full h-96 overflow-hidden">
+                        <img src="{{ asset('images/KANYASI_66.jpg') }}" alt="design mockup"
+                            class="w-full h-full object-cover">
+                    </div>
+                    <h2 class="text-lg tracking-wide text-blue-900 font-semibold text-center">School Website</h2>
+                    <p class="text-gray-600 text-center">Designing, developing, and deploying custom web-based
+                        software to automate business processes, manage data, and facilitate online transactions.
+                    </p>
+                </div>
+            </div>
+=======
                         We designed and developed a modern, responsive website for Scolastica Secondary School in Kilimanjaro, Tanzania. The site showcases key information including academic programs, staff profiles, events, and admissions. It was built with user-friendliness and accessibility in mind, ensuring both students and parents can easily access essential resources.
                     </p>
 
@@ -88,6 +121,7 @@
                 </div>
             </div>
 
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
             <div class="p-2 bg-gradient-to-br from-blue-100 to-blue-50 rounded-lg my-4 hover:shadow-md shadow-blue-200">
                 <div class="flex flex-col gap-2">
                     <div class="w-full h-96 overflow-hidden">
@@ -113,12 +147,21 @@
     <section
         class="mx-auto p-6 md:p-12 flex flex-col md:flex-row my-12 bg-gradient-to-tr from-blue-900 to-blue-950 rounded-sm shadow-2xl text-white">
         <div class="w-full md:w-1/3 my-4 p-4 space-y-6">
+<<<<<<< HEAD
+            <i class="fa fa-handshake text-4xl md:text-6xl text-orange-400"></i>
+            <h3 class="text-4xl md:text-5xl font-bold leading-tight">Partner With Us</h3>
+
+            <div class="w-fit">
+                <button
+                    class="py-3 px-6 bg-orange-600 hover:bg-orange-700 text-white rounded-full text-lg md:text-xl font-semibold transition-all duration-500 shadow-lg hover:scale-105">
+=======
             <i class="fa fa-handshake text-3xl md:text-4xl text-orange-400"></i>
             <h3 class="text-4xl md:text-4xl font-bold leading-tight">Partner With Us</h3>
 
             <div class="w-fit">
                 <button
                     class="py-2 px-3 bg-orange-600 hover:bg-orange-700 text-white rounded-full text-lg md:text-xl font-semibold transition-all duration-500 shadow-lg hover:scale-105">
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
                     Get In Touch
                 </button>
             </div>
@@ -128,28 +171,44 @@
             <div
                 class="flex items-start space-x-4 bg-white bg-opacity-10 border border-orange-500 p-4 rounded-xl shadow-md hover:scale-105 transition-transform duration-500">
                 <i class="fa fa-puzzle-piece text-orange-400 text-2xl"></i>
+<<<<<<< HEAD
+                <span class="text-white text-base md:text-lg font-medium">
+=======
                 <span class="text-white text-base md:text-md font-medium">
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
                     Tailored software and design to meet your unique business needs
                 </span>
             </div>
             <div
                 class="flex items-start space-x-4 bg-white bg-opacity-10 border border-orange-500 p-4 rounded-xl shadow-md hover:scale-105 transition-transform duration-500">
                 <i class="fa fa-clock text-orange-400 text-2xl"></i>
+<<<<<<< HEAD
+                <span class="text-white text-base md:text-lg font-medium">
+=======
                 <span class="text-white text-base md:text-md font-medium">
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
                     On-time project delivery and ongoing support
                 </span>
             </div>
             <div
                 class="flex items-start space-x-4 bg-white bg-opacity-10 border border-orange-500 p-4 rounded-xl shadow-md hover:scale-105 transition-transform duration-500">
                 <i class="fa fa-users text-orange-400 text-2xl"></i>
+<<<<<<< HEAD
+                <span class="text-white text-base md:text-lg font-medium">
+=======
                 <span class="text-white text-base md:text-md font-medium">
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
                     We work closely with you to ensure your vision is realized
                 </span>
             </div>
             <div
                 class="flex items-start space-x-4 bg-white bg-opacity-10 border border-orange-500 p-4 rounded-xl shadow-md hover:scale-105 transition-transform duration-500">
                 <i class="fa fa-line-chart text-orange-400 text-2xl"></i>
+<<<<<<< HEAD
+                <span class="text-white text-base md:text-lg font-medium">
+=======
                 <span class="text-white text-base md:text-md font-medium">
+>>>>>>> 6265ef8e500c56b74c1ef07232cac8945d37cabc
                     Delivering solutions that drive measurable business growth
                 </span>
             </div>
